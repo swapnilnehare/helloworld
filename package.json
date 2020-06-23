@@ -1,0 +1,17 @@
+{
+  "name": "cordova-plugin-helloworld",
+  "version": "1.0.0",
+  "description": "hellow world plugin for test",
+  "cordova": {
+    "id": "cordova-plugin-helloworld",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Swapnil Nehare",
+  "license": "ISC"
+}
